@@ -1,0 +1,16 @@
+125000/total_days_without_weekend*(total_days_without_weekend-total_leave_days)
+
+125000/total_days*(total_days-total_leave_days)
+
+(125000/(total_days_without_weekend-total_leave_days))*total_worked_days
+
+(125000/(total_days-total_leave_days))*total_worked_days
+
+125000/total_working_days*(total_working_days-total_leave_days)
+
+
+451 to 484
+
+
+
+
