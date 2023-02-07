@@ -9,7 +9,7 @@
 125000/total_working_days*(total_working_days-total_leave_days)
 
 
-451 to 484
+451 to 400
 
 
 
